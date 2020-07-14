@@ -14,7 +14,7 @@
 
  | Name        | Code Repo      | Documentation |
 | ------------- |:-------------:| ------------:|
-| col 3 is      | right-aligned | $1600 |
+| [Exam Pacer](http://exam.pacer.jeffwalsh.co.za/)| [CODE](https://github.com/jeffpwalsh/exam-pacer) | [DOCUMENTATION](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md) |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
  
@@ -22,7 +22,7 @@
 
  [Exam Pacer](http://exam.pacer.jeffwalsh.co.za/) 
  
- [CODE REPO](https://github.com/jeffpwalsh/exam-pacer) 
+ [CODE](https://github.com/jeffpwalsh/exam-pacer) 
  
  [DOCUMENTATION](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md)
 
