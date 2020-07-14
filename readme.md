@@ -15,7 +15,7 @@
  | Link        | Code Repo      | Documentation |
 | ------------- |:-------------:| ------------:|
 | [Exam Pacer](http://exam.pacer.jeffwalsh.co.za/)| [code/files](https://github.com/jeffpwalsh/exam-pacer) | [documentation](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md) |
-| [Exam Pacer](http://exam.pacer.jeffwalsh.co.za/)| [code/files](https://github.com/jeffpwalsh/exam-pacer) | [documentation](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md) |
+| [Corona Virus API](https://jeffpwalsh-corona-virus-api.herokuapp.com/)| [code/files](https://github.com/jeffpwalsh/corona-virus-api) | [documentation](https://github.com/jeffpwalsh/corona-virus-api/blob/master/README.md) |
 | [Exam Pacer](http://exam.pacer.jeffwalsh.co.za/)| [code/files](https://github.com/jeffpwalsh/exam-pacer) | [documentation](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md) |
 | [Exam Pacer](http://exam.pacer.jeffwalsh.co.za/)| [code/files](https://github.com/jeffpwalsh/exam-pacer) | [documentation](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md) |
 
