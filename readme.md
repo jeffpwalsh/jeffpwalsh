@@ -10,6 +10,14 @@
  
  ![tech stack](/techlogos.JPG)
  
+### Deployed Projects 
+
+ | Name        | Code Repo      | Documentation |
+| ------------- |:-------------:| ------------:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+ 
  ### Deployment Links
 
  [Exam Pacer](http://exam.pacer.jeffwalsh.co.za/) 
