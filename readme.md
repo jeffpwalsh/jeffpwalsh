@@ -10,22 +10,17 @@
  
  ![tech stack](/techlogos.JPG)
  
-### Deployed Projects 
+# Deployed Projects 
 
- | Name        | Code Repo      | Documentation |
+ | Link        | Code Repo      | Documentation |
 | ------------- |:-------------:| ------------:|
-| [Exam Pacer](http://exam.pacer.jeffwalsh.co.za/)| [CODE](https://github.com/jeffpwalsh/exam-pacer) | [DOCUMENTATION](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md) |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
- 
- ### Deployment Links
+| [Exam Pacer](http://exam.pacer.jeffwalsh.co.za/)| [code/files](https://github.com/jeffpwalsh/exam-pacer) | [documentation](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md) |
+| [Exam Pacer](http://exam.pacer.jeffwalsh.co.za/)| [code/files](https://github.com/jeffpwalsh/exam-pacer) | [documentation](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md) |
+| [Exam Pacer](http://exam.pacer.jeffwalsh.co.za/)| [code/files](https://github.com/jeffpwalsh/exam-pacer) | [documentation](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md) |
+| [Exam Pacer](http://exam.pacer.jeffwalsh.co.za/)| [code/files](https://github.com/jeffpwalsh/exam-pacer) | [documentation](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md) |
 
- [Exam Pacer](http://exam.pacer.jeffwalsh.co.za/) 
  
- [CODE](https://github.com/jeffpwalsh/exam-pacer) 
  
- [DOCUMENTATION](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md)
-
 
 
 
