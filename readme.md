@@ -8,7 +8,7 @@
  - Testing: `Jest` `Mocha` `Chai`
  - Full-Stack: `MERN`
  
- ![tech stack](/logo strip.png)
+ ![tech stack](logo strip.png)
  
 
 
