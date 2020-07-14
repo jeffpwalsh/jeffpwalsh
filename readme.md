@@ -3,6 +3,7 @@
 
 ### My Tech Stack
 
+
 ![tech stack](https://github.com/jeffpwalsh/jeffpwalsh/blob/master/techlogos.JPG)
 
  - Frontend: `HTML` `CSS` `JavaScript` `jQuery` `Bootstrap` `React`
@@ -11,7 +12,9 @@
  - Testing: `Jest` `Mocha` `Chai`
  - Full-Stack: `MERN`
  
+ 
 ### Deployed Projects 
+
 
 
  | Link        | Code Repo      | Documentation | Tech     | Status    |
