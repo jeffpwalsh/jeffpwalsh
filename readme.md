@@ -8,7 +8,7 @@
  - Testing: `Jest` `Mocha` `Chai`
  - Full-Stack: `MERN`
  
- ![EXAM PACER RENDER](/render.PNG)
+ ![EXAM PACER RENDER](/logo strip.PNG)
  
 
 
