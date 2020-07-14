@@ -16,7 +16,7 @@
  
  [CODE REPO](https://github.com/jeffpwalsh/exam-pacer) 
  
- [DOCUMENTATION](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md
+ [DOCUMENTATION](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md)
 
 
 
