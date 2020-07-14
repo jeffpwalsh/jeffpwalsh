@@ -2,7 +2,7 @@
 # Dev Portfolio - Jeff Walsh
 
 ### My Tech Stack
-![tech stack](/techlogos.JPG)
+![tech stack](jeffpwalsh/techlogos.JPG)
  - Frontend: `HTML` `CSS` `JavaScript` `jQuery` `Bootstrap` `React`
  - Backend: `Node` `Express` `Nextjs`
  - Database: `MongoDB`
