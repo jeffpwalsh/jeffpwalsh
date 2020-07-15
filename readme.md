@@ -19,7 +19,7 @@
 
  | Link        |  Tech    | Status |  Code    | Readme  |
 | ------------- |:-------------:| ------------:| ---------:| ---------:|
-| [Exam Pacer](http://exam.pacer.jeffwalsh.co.za/)| `JavaScript` `HTML` `CSS` `Bootstrap` | ![Deployed @](https://img.shields.io/badge/deployed-domain-red) | [code](https://github.com/jeffpwalsh/exam-pacer) | [documentation](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md) 
+| [Exam Pacer](http://exam.pacer.jeffwalsh.co.za/)| `JavaScript` `HTML` `CSS` `Bootstrap` | ![Deployed @](https://img.shields.io/badge/deployed-domains-red) | [code](https://github.com/jeffpwalsh/exam-pacer) | [documentation](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md) 
 | [Corona Virus API](https://jeffpwalsh-corona-virus-api.herokuapp.com/)| `ReactJS` `CSS` `Bootstrap` | ![Deployed @](https://img.shields.io/badge/deployed-heroku-blueviolet) | [code](https://github.com/jeffpwalsh/corona-virus-api) | [documentation](https://github.com/jeffpwalsh/corona-virus-api/blob/master/README.md) 
 | [iTunes Search API](https://guarded-tor-84227.herokuapp.com/)| `NodeJS` `ExpressJS` `ReactJS` | ![Deployed @](https://img.shields.io/badge/deployed-heroku-blueviolet) | [code](https://github.com/jeffpwalsh/iTunes-Search-API) | [documentation](https://github.com/jeffpwalsh/iTunes-Search-API/blob/master/README.md) 
 | [Animal Adopter](https://animal-adopter.herokuapp.com/)| `MongoDB` `ExpressJS` `ReactJS` `NodeJS` | ![Deployed @](https://img.shields.io/badge/deployed-heroku-blueviolet) | [code](https://github.com/jeffpwalsh/animal-adopter) | [documentation](https://github.com/jeffpwalsh/animal-adopter/blob/master/README.md) 
