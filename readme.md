@@ -25,7 +25,7 @@
 | [Animal Adopter](https://animal-adopter.herokuapp.com/)| `MongoDB` `ExpressJS` `ReactJS` `NodeJS` | ![Deployed @](https://img.shields.io/badge/deployed-heroku-blueviolet) | [code](https://github.com/jeffpwalsh/animal-adopter) | [documentation](https://github.com/jeffpwalsh/animal-adopter/blob/master/README.md) 
 | [Weather Finder](https://jeffpwalsh-weather-finder.herokuapp.com/)| `ReactJS` `CSS` `Bootstrap` | ![Deployed @](https://img.shields.io/badge/deployed-heroku-blueviolet) | [code](https://github.com/jeffpwalsh/weather-finder) | [documentation](https://github.com/jeffpwalsh/weather-finder/blob/master/README.md) 
 | [Personal Bio](https://jeffpwalsh.github.io/bio/)| `JavaScript` `jQuery` `HTML` `CSS` `Bootstrap` | ![Deployed @](https://img.shields.io/badge/deployed-gh--pages-brightgreen) | [code](https://github.com/jeffpwalsh/bio) | [documentation](https://github.com/jeffpwalsh/bio/blob/master/README.md) 
-| [Hotel Website](https://jeffpwalsh.github.io/hotel-website/index.html)| | `HTML` `CSS` | ![Deployed @](https://img.shields.io/badge/deployed-gh--pages-brightgreen) [code](https://github.com/jeffpwalsh/hotel-website) | [documentation](https://github.com/jeffpwalsh/hotel-website/blob/master/README.md) 
+| [Hotel Website](https://jeffpwalsh.github.io/hotel-website/index.html)| | `HTML` `CSS` | ![Deployed @](https://img.shields.io/badge/deployed-gh--pages-brightgreen) | [code](https://github.com/jeffpwalsh/hotel-website) | [documentation](https://github.com/jeffpwalsh/hotel-website/blob/master/README.md) 
 
  
  
