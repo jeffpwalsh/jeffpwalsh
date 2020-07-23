@@ -17,9 +17,9 @@
 
 
 
- | Link      |  Tech       | Status     |  Code     | Readme    | Activity  |
-| ----------:|:-----------:| ----------:| ---------:| ---------:| ---------:|
-| [Exam Pacer - App](http://exam.pacer.jeffwalsh.co.za/)| `JavaScript` `HTML` `CSS` `Bootstrap` | ![Deployed @](https://img.shields.io/badge/deployed-domain-red) | [code](https://github.com/jeffpwalsh/exam-pacer) | [documentation](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jeffpwalsh/exam-pacer)
+ | Link      |  Type       |  Tech       | Status     |  Code    | Readme    | Activity  |
+| ----------:|:-----------:| :----------:|----------:| ---------:| ---------:| ---------:|
+| [Exam Pacer - App](http://exam.pacer.jeffwalsh.co.za/)| ![Type] (https://img.shields.io/badge/-app-pink) |`JavaScript` `HTML` `CSS` `Bootstrap` | ![Deployed @](https://img.shields.io/badge/deployed-domain-red) | [code](https://github.com/jeffpwalsh/exam-pacer) | [documentation](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jeffpwalsh/exam-pacer)
 | [Covid-19 API - App](https://jeffpwalsh-corona-virus-api.herokuapp.com/)| `ReactJS` `CSS` `Bootstrap` | ![Deployed @](https://img.shields.io/badge/deployed-heroku-blueviolet) | [code](https://github.com/jeffpwalsh/corona-virus-api) | [documentation](https://github.com/jeffpwalsh/corona-virus-api/blob/master/README.md) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jeffpwalsh/corona-virus-api)
 | [iTunes API - App](https://guarded-tor-84227.herokuapp.com/)| `NodeJS` `ExpressJS` `ReactJS` | ![Deployed @](https://img.shields.io/badge/deployed-heroku-blueviolet) | [code](https://github.com/jeffpwalsh/iTunes-Search-API) | [documentation](https://github.com/jeffpwalsh/iTunes-Search-API/blob/master/README.md) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jeffpwalsh/iTunes-Search-API)
 | [Animal Adopter - App](https://animal-adopter.herokuapp.com/)| `MongoDB` `ExpressJS` `ReactJS` `NodeJS` | ![Deployed @](https://img.shields.io/badge/deployed-heroku-blueviolet) | [code](https://github.com/jeffpwalsh/animal-adopter) | [documentation](https://github.com/jeffpwalsh/animal-adopter/blob/master/README.md) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jeffpwalsh/animal-adopter)
