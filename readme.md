@@ -1,9 +1,6 @@
 
 # Dev Portfolio - Jeff Walsh
 
-### My Tech Stack
-
-
 ![tech stack](https://github.com/jeffpwalsh/jeffpwalsh/blob/master/React4.jpg)
 
  - Frontend: `HTML` `CSS` `JavaScript` `jQuery` `Bootstrap` `React`
@@ -13,7 +10,7 @@
  - Full-Stack: `MERN`
  
  
-### Deployed Projects 
+### My Deployed Projects w/ links
 
 
 
