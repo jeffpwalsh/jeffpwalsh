@@ -3,13 +3,7 @@
 
 ![tech stack](https://github.com/jeffpwalsh/jeffpwalsh/blob/master/React4.jpg)
 
- - Frontend: `HTML` `CSS` `JavaScript` `jQuery` `Bootstrap` `React`
- - Backend: `Node` `Express` `Nextjs`
- - Database: `MongoDB`
- - Testing: `Jest` `Mocha` `Chai`
- - Full-Stack: `MERN`
- 
- 
+
 # My Deployed Projects w/ links
 
 
