@@ -4,7 +4,7 @@
 ### My Tech Stack
 
 
-![tech stack](https://github.com/jeffpwalsh/jeffpwalsh/blob/master/techlogos.JPG)
+![tech stack](https://github.com/jeffpwalsh/jeffpwalsh/blob/master/React4.JPG)
 
  - Frontend: `HTML` `CSS` `JavaScript` `jQuery` `Bootstrap` `React`
  - Backend: `Node` `Express` `Nextjs`
