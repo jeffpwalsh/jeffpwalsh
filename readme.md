@@ -4,7 +4,7 @@
 ![tech stack](https://github.com/jeffpwalsh/jeffpwalsh/blob/master/React4.jpg)
 
 
-# My Deployed Projects w/ links
+# My deployed projects w/ links
 
 
 
