@@ -10,7 +10,7 @@
  - Full-Stack: `MERN`
  
  
-### My Deployed Projects w/ links
+# My Deployed Projects w/ links
 
 
 
