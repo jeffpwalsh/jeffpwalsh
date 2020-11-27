@@ -17,7 +17,7 @@
 
 
 
- | Link      |  Type       |  Tech       | Status     |  Code    | Readme    | Activity  |
+ | LINK      |  TYPE       |  TECH       | STATUS     |  CODE-BASE    | README    | ACTIVITY  |
 | ----------:|:-----------:| :----------:|----------:| ---------:| ---------:| ---------:|
 | [Registree](https://jeffpwalsh.github.io/registree/index.html) | ![Type](https://img.shields.io/badge/-app-brightgreen) |`JavaScript` `HTML` `CSS` `Bootstrap` `jQuery` `Underscore` | ![Deployed @](https://img.shields.io/badge/deployed-domain-red) | [code](https://github.com/jeffpwalsh/registree) | [documentation](https://github.com/jeffpwalsh/registree/blob/main/README.md) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jeffpwalsh/registree)
 | [Exam Pacer](http://exam.pacer.jeffwalsh.co.za/) | ![Type](https://img.shields.io/badge/-app-brightgreen) |`JavaScript` `HTML` `CSS` `Bootstrap` | ![Deployed @](https://img.shields.io/badge/deployed-domain-red) | [code](https://github.com/jeffpwalsh/exam-pacer) | [documentation](https://github.com/jeffpwalsh/exam-pacer/blob/master/README.md) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jeffpwalsh/exam-pacer)
