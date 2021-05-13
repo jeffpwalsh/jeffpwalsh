@@ -21,7 +21,7 @@
 | [Hotel](http://hotel.website.jeffwalsh.co.za/) | ![Type](https://img.shields.io/badge/-website-orange) | `HTML CSS PHP` | ![Deployed @](https://img.shields.io/badge/deployed-domain-red) | [code](https://github.com/jeffpwalsh/hotel-website) | [documentation](https://github.com/jeffpwalsh/hotel-website/blob/master/README.md) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jeffpwalsh/hotel-website)
 | [Financial](http://financial.website.jeffwalsh.co.za/) | ![Type](https://img.shields.io/badge/-website-orange) | `HTML CSS JavaScript jQuery PHP` | ![Deployed @](https://img.shields.io/badge/deployed-domain-red) | [code](https://github.com/jeffpwalsh/financial-website) | [documentation](https://github.com/jeffpwalsh/financial-website/blob/master/README.md) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jeffpwalsh/financial-website)
 | [Rozendal Partners](https://www.rozendal.com/) | ![Type](https://img.shields.io/badge/-website-orange) | `Wordpress` | ![Deployed @](https://img.shields.io/badge/deployed-domain-red) | `pvt` | `on-request` | `n/a`
-| [Rozendal Partners](https://www.rozendal.com/) | ![Type](https://img.shields.io/badge/-website-orange) | `Wordpress` | ![Deployed @](https://img.shields.io/badge/deployed-domain-red) | `pvt` | `on-request` | `n/a`
+| [Blue Route Auto](https://bluerouteauto.co.za/) | ![Type](https://img.shields.io/badge/-website-orange) | `Wordpress` | ![Deployed @](https://img.shields.io/badge/deployed-domain-red) | `pvt` | `on-request` | `n/a`
 
 
  
