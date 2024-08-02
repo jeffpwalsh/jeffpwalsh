@@ -1,8 +1,6 @@
 
 # Dev Portfolio - Jeff Walsh
 
-# My deployed projects w/ links
-
 
  | LINK      |  TYPE       |  TECH       | STATUS     |  CODE BASE    | README    | ACTIVITY  |
 | ----------:|:-----------:| :----------:|----------:| ---------:| ---------:| ---------:|
